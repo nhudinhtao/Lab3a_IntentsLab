@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Dec 23 18:35:40 ICT 2016
+2.base=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_loader_activity.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.base=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/taonhu/AndroidStudioProjects/Lab3a_IntentsLab/app/build/intermediates/res/resources-debug.ap_/res/layout/explicitly_loaded_activity.xml
+0.set=DEX
